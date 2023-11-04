@@ -1,0 +1,42 @@
+.frontpageimg {
+  width: 46vw;
+  height: 45vh;
+  display: block;
+}
+
+.frontpageimgdiv {
+  width: 90vw;
+}
+
+.frontpagediv,
+.frontpageimgdiv,
+.frontpagebutton {
+  display: flex;
+  justify-content: center;
+}
+
+.frontpagebutton1 {
+  color: pink;
+  background-color: cornflowerblue;
+}
+
+.placesindexpics {
+  width: 40vw;
+  height: 43vh;
+}
+
+.indexpagedetails {
+  font-size: 18px;
+}
+
+.placedetailinfo {
+  font-size: 40px;
+}
+
+.placedetailinfo2 {
+  font-size: 30px;
+}
+
+.placedetaildes {
+  font-size: 20px;
+}
